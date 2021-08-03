@@ -1,20 +1,20 @@
-# Solar Radiation
+# Ηλιακή Ακτινοβολία
 
-## AIM - Visualise the blackbody radiation from different temperature suns and calculate the effective temperature of planets.
+## Στόχος - Οπτικοποίησε την ακτινοβολία μέλανος σώματος για διαφορετικές θερμοκρασίες και υπολόγιστε την ενεργό θερμοκρασία για διάφορους πλανήτες
 
-**Predict**
+**Προβλέψτε**
 
-Have a think about these questions and make some predictions! Be sure to tell someone else what you predict.
+Αναρωτηθείτε για τις παρακάτω ερωτήσεις και κάντε κάποιες προβλέψεις. Βεβαιωθείτε ότι έχετε πει σε κάποιον τι προβλέψατε!
 
-1) Do hotter objects emit more longer or shorter wavelengths?    
-2) What colour light does our sun emit the most of?  
+1) Τα θερμότερα αντικείμενα εκπέμπουν μικρότερα ή μεγαλύτερα μήκη κύματος ;
+2) Τι χρώμα είναι το χρώμα που εκπέμπεται περισσότερο από τον Ήλιο ;
 
-## Intro
+## Εισαγωγή
 
-Intro to blackbody radiation, Wien's Law, and Stephan-Boltzman's Law.
+Εισαγωγή στην ακτινοβολία μέλανος σώματος, και στους νόμους Wien και Stephan-Boltzman.
 
-**radiationSun.py** is the main code.
+**radiationSun.py** είναι ο κύριος κώδικας
 
-**blackbodyCurves.py** creates the image below:
+**blackbodyCurves.py** παράγει την παρακάτω εικόνα:
 
 ![AstroWelcome](blackbodyCurves.png)
