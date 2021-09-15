@@ -19,4 +19,4 @@ Intro to blackbody radiation, Wien's Law, and Stephan-Boltzman's Law.
 
 ![AstroWelcome](blackbodyCurves.png)
 
-https://mybinder.org/v2/gh/2-science/Astronomy/MyBinder?filepath=MyBinder%2FAstPy-005_Solar_Radiation%2F%20radiationSunTeacher.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/2-science/Astronomy/MyBinder?filepath=MyBinder%2FAstPy-005_Solar_Radiation%2F%20radiationSunTeacher.ipynb)
