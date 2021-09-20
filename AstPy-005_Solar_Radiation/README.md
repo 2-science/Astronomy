@@ -18,3 +18,5 @@ Intro to blackbody radiation, Wien's Law, and Stephan-Boltzman's Law.
 **blackbodyCurves.py** creates the image below:
 
 ![AstroWelcome](blackbodyCurves.png)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/2-science/Astronomy/MyBinder?filepath=tree%2FMyBinder%2FAstPy-005_Solar_Radiation%2F%20radiationSunTeacher.ipynb)
