@@ -7,7 +7,7 @@
 
 Have a think about these questions and make some predictions! Be sure to tell someone else what you predict.
 
-1) How fast do you think the sun rotates?  
+1) Πόσο γρήγορα νομίζείς ότι περιστρέφεται γύρω από τον εαυτό του ο Ήλιος
 2) Does it rotate at the same speed all over its surface?  
 3) How could we use sunpots in a series of images to calculate the sun's rotation period?
 
