@@ -18,3 +18,6 @@
 **blackbodyCurves.py** παράγει την παρακάτω εικόνα:
 
 ![AstroWelcome](blackbodyCurves.png)
+
+
+PS: να προσθέσουμε κάτι ; 
